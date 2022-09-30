@@ -1,0 +1,30 @@
+.wrapper{
+  display: flex;
+}
+.althisse{
+    display: flex;
+}
+.text{
+    height: 374px;
+width: 662px;
+left: 124px;
+top: 202px;
+}
+.photo{
+    height: 315px;
+width: 314px;
+left: 976px;
+top: 226px;
+}
+.one{
+    height: 39px;
+    width: 150px;
+    left: 488px;
+    top: 780px;
+}
+.two{
+    height: 39px;
+width: 150px;
+left: 733px;
+top: 780px;
+}
